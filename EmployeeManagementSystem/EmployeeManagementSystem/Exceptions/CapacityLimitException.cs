@@ -1,11 +1,11 @@
 ﻿
 namespace EmployeeManagementSystem.Exceptions
 {
-    public class CapacityLimitException :Exception
+    public class CapacityLimitException : Exception
     {
-        public CapacityLimitException(string message):base(message)
+        public CapacityLimitException(string message) : base(message)
         {
-            
+
         }
     }
 }

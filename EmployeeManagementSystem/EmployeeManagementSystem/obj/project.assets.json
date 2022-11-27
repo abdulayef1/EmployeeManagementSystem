@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ClassTime\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Мухаммед\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ClassTime\\Desktop\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+      "projectUniqueName": "C:\\Workspece\\CodeHomeTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
       "projectName": "EmployeeManagementSystem",
-      "projectPath": "C:\\Users\\ClassTime\\Desktop\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
-      "packagesPath": "C:\\Users\\ClassTime\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ClassTime\\Desktop\\EmployeeManagementSystem\\EmployeeManagementSystem\\obj\\",
+      "projectPath": "C:\\Workspece\\CodeHomeTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+      "packagesPath": "C:\\Users\\Мухаммед\\.nuget\\packages\\",
+      "outputPath": "C:\\Workspece\\CodeHomeTasks\\EmployeeManagementSystem\\EmployeeManagementSystem\\EmployeeManagementSystem\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\ClassTime\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Мухаммед\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
